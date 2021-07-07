@@ -5,6 +5,47 @@
 }
 
 /* generale */
+.color-header {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.color-main1 {
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.color-main2 {
+    color: #2C3E50;
+}
+
+.color-footer1 {
+    background-color: #4d6f8f;
+    color: white;
+}
+.color-footer2 {
+    background-color: #3A546D;
+    color: white;
+}
 /* FINE generale */
 
 /* debug */
+.debug .color-header {
+    height: 50px;
+}
+
+.debug .color-main1 {
+    height: 500px;
+}
+
+.debug .color-main2 {
+    height: 800px;
+}
+
+.debug .color-footer1 {
+    height: 200px;
+}
+
+.debug .color-footer2 {
+    height: 100px;
+}
