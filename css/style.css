@@ -31,7 +31,7 @@
 
 /* debug */
 .debug .color-header {
-    height: 50px;
+    height: 80px;
 }
 
 .debug .color-main1 {
@@ -48,4 +48,12 @@
 
 .debug .color-footer2 {
     height: 100px;
+}
+
+.debug .border-w {
+    border: 2px solid white;
+}
+
+.debug .border-b {
+    border: 2px solid black;
 }
