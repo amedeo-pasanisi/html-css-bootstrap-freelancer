@@ -107,22 +107,32 @@ header .hamburger a{
 /* footer */
 .ms_color-footer1 {
     background-color: #4d6f8f;
+    padding: 50px 0;
+}
+
+.ms_social-btn {
+    line-height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.ms_color {
+    color: #1ABC9C;
+}
+
+.ms-mb {
+    margin-bottom: 20px;
 }
 
 .ms_color-footer2 {
     background-color: #3A546D;
+    padding: 50px 0;
 }
 /* FINE footer */
 
 /* debug */
-.debug .ms_color-footer1 {
-    height: 200px;
-}
-
-.debug .ms_color-footer2 {
-    height: 100px;
-}
-
 .debug .ms_border-white {
     border: 2px solid white;
 }
