@@ -88,6 +88,20 @@ header .hamburger a{
     padding: 50px 0 30px 0;
 }
 /* FINE section about */
+
+/* section contact */
+#contact {
+    padding: 50px 0 30px 0;
+}
+
+#contact .ms_pb {
+    padding-bottom: 100px;
+}
+
+#contact .ms_btn-bgcolor {
+    background-color: #1ABC9C;
+}
+/* FINE section contact */
 /* FINE main */
 
 /* footer */
